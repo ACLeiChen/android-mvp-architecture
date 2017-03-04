@@ -58,7 +58,7 @@ dependencies {
     compile "com.android.support:design:$rootProject.supportLibraryVersion"
     compile "com.android.support:support-vector-drawable:$rootProject.supportLibraryVersion"
     compile "com.android.support:animated-vector-drawable:$rootProject.supportLibraryVersion"
-
+    androidTestCompile "com.android.support:support-annotations:25.2.0"
     // font
     compile "uk.co.chrisjenx:calligraphy:$rootProject.calligraphyVersion"
 
